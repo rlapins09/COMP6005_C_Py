@@ -1,3 +1,0 @@
-﻿game_development.obj : error LNK2005: _main already defined in celsius_farenheit.obj
-testing_cases.obj : error LNK2005: _main already defined in celsius_farenheit.obj
-C:\Users\elana\Desktop\Coursework\Comp.For Engineers\Homework1\Submission\HW1Submission\Debug\HW1Submission.exe : fatal error LNK1169: one or more multiply defined symbols found
